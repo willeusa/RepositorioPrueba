@@ -53,7 +53,7 @@ No podemos usar software en una empresa sin saber si es legal hacerlo. Y no, "es
 3. Investiga y redacta en ese archivo qué licencia tiene cada pieza de tu infraestructura. Para cada una, debes indicar el nombre del software, su licencia y un enlace a la fuente oficial.  
    1. **Ejemplo**: *PostgreSQL se distribuye bajo la Licencia PostgreSQL (una licencia permisiva de tipo open source similar a la BSD o MIT)*.  
 4. Debes incluir **obligatoriamente**: Apache Guacamole y OpenSSH.
-:![Logotipo de Apache Guacamole](https://upload.wikimedia.org/wikipedia/commons/3/31/Apache_Guacamole_logo.png):
+<div align="center"><img alt="Logotipo de Apache Guacamole" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apache_Guacamole_logo.png" width="50%" heigth="100%" /></div>
 
 **¿Por qué hacemos esto?** Porque según el CE a), debes ser capaz de clasificar el software según su propósito y su licencia.
 
